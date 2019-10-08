@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nacchancs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nacchancs.github.io
+  * I am nacchancs (https://keybase.io/nacchancs) on keybase.
+  * I have a public key with fingerprint 557A A489 A91F 053F A317  C81C 77A0 8E93 064F 7BAF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017dc96d2d833630246ce4058d77500f81e65d8db203be038641674b72c4b336780a",
+      "fingerprint": "557aa489a91f053fa317c81c77a08e93064f7baf",
+      "host": "keybase.io",
+      "key_id": "77a08e93064f7baf",
+      "kid": "01017dc96d2d833630246ce4058d77500f81e65d8db203be038641674b72c4b336780a",
+      "uid": "5a992bc01cf70612b88d8fa4e07ab119",
+      "username": "nacchancs"
+    },
+    "service": {
+      "hostname": "nacchancs.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1570550126,
+  "expire_in": 157680000,
+  "prev": "b4daec73f5cced27dc25cd9882bfa67371edfa74685b7794cfece3167ed1031f",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD6mmZmFaSE+uhRZHGRmbzN7DLEoMw3KHkooO83OzHrWavd0
+do9d7UJEFykoRAq6SoVdXoI6ldI9iAwrygiqhyiKLJUKCoPAZq1eosfmZZiP7/vm
++z/+O2PTQ9lplQ2hp32PF3ek3b95NBmqO3Te2SCZLlsnRTZIK/jwxVcy7vnRFTaT
+IhKAACJGDZ3JDCuKrgBZ1SlXgYYZQhoAFoZc1xhmpgwUkwMF6yrUkWoimaqmUCAM
+iBSWLNup54l4wnZ8YatpiBAVG8SAFtAUiygQUQwpQgRgbihAVy1kEksIY64XKEQ4
+k3i8xHYFJh7R4Xj/4P/n3MlhO40YhmxSAKmFgA5lE2OGLaJygIgJoREQPZ5wyCou
+2A6hNEYc6klNYUnAjTblQbPBKH9TSuptP5Y0f80VT7i+S92VghDz/bgXCQz8dfFA
+sYab0d9eUdN2mOhTKBp5wrNdR4pAwaS+HZhDDQFNA1DWwxJfG7cTPGo7w7COgTjB
+P7xRWJoqI5wixdIo5UwWfckaZQbGsmkRHSkIcmYRpOpYMxEyVGpxyhXREmcQKDBo
+2+OrHVeKqCImqReWnl3vED+Z4FLTrRtLM0Jp2aHMkSOCPQtlj879s30LjKzQthPH
+lw/Vla/fWEjHNMNHS3tai7a/mvUgz725/Mr0cMn1Af98qtZaci7Uno5OV0wcl7n5
+i1TbO9h7riYj/2BNQ4Fu9Pz40FZ56V712Y45xVV3T7Ipc2tfXtvUc6CnZn7O52T+
+uxmFnw6PT3XghVuXPWspOvsi831TMevfNbqsrxOPvf2GlQ0ufD10ceBj+UBhb1da
+Z8WOM7k7uyqfz94fowd5byl5vvXqdKhVvESjyia0F89c1Dq1fdStt7Vtm753Xfj6
+7HNdS97TsJVKrakCJTmph5eP0eS1o863PfPHrZ+c1bz2Rv/HfS1VChk6db1o2pa2
+JwXVk+fJpfsrdud0D3ZP2nvkJwF1QZI=
+=HS13
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nacchancs
+
+==================================================================
